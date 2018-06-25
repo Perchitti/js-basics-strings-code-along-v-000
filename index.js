@@ -2,4 +2,4 @@
 
 const currentUser = "Lauren";
 
-const welcomeMessage = currentUser;
+const welcomeMessage = "Welcome to Flatbook, " + currentUser;
